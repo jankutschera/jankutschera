@@ -1,3 +1,5 @@
+<!-- Profile README for @jankutschera -->
+
 # Hi, I'm Jan
 
 Founder, automation builder, and operator behind [ADHD Founder](https://adhd-founder.com).
